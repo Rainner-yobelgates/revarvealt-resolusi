@@ -1,7 +1,7 @@
 Revarvealt Resolusi
-- Learn Git & GitHub
 - Lear node Js
 - Hone a skill Laravel
+- Web developer
 ------------------------
 - Web & Android developer
 - Have a compacny
