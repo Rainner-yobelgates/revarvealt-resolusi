@@ -4,7 +4,8 @@ Program belajar Revarvealt
 - react native
 - firebase
 
-belajar AI
-- python
+Belajar AI
+- Java
+  - Python
   > Anaconda
-- machine learning
+- Data science
