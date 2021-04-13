@@ -6,5 +6,6 @@ Program belajar Revarvealt
 
 Belajar Ai
 - Java
-- Anaconda
+  - Python
+  > Anaconda
 - Data science
