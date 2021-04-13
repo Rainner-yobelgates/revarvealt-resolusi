@@ -3,3 +3,7 @@ Program belajar Revarvealt
 - react js
 - react native
 - firebase
+
+belajar AI
+- python
+- machine learning
