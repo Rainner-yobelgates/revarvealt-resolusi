@@ -6,4 +6,5 @@ Program belajar Revarvealt
 
 belajar AI
 - python
+  > Anaconda
 - machine learning
