@@ -3,3 +3,8 @@ Program belajar Revarvealt
 - react js
 - react native
 - firebase
+
+Belajar Ai
+- Java
+- Anaconda
+- Data science
